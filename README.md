@@ -1,6 +1,9 @@
-![image](https://github.com/user-attachments/assets/6b835c22-c7da-4f88-8cfc-08278dbb7383)# H.U.A-Humanitarian-Unified-Assistance-System
+# H.U.A-Humanitarian-Unified-Assistance-System
+
 ![LinkedIn Post by Matthew Chimbos](https://github.com/user-attachments/assets/01224159-0587-418d-8c84-bba7e6eb7730)
+
 Dev Team Photo April 18th 2024 GCU Capstone Showcase ![438083273_803057421715504_2266959515385653223_n](https://github.com/user-attachments/assets/31276d0c-8cc3-4998-aa18-17c229aaa29e)
+
 Office of Economic Devlopment Maui County ![image](https://github.com/user-attachments/assets/7e1fb545-2c5a-46bb-a98a-382e0071eb1f)
 
 
