@@ -1,6 +1,6 @@
 # H.U.A-Humanitarian-Unified-Assistance-System
 
-![LinkedIn Post by Matthew Chimbos](https://github.com/user-attachments/assets/01224159-0587-418d-8c84-bba7e6eb7730)
+ Public Shoutout by Matthew Chimbos current Managing IT director @Hawaiian Airlines ![LinkedIn Post by Matthew Chimbos](https://github.com/user-attachments/assets/01224159-0587-418d-8c84-bba7e6eb7730)
 
 Dev Team Photo April 18th 2024 GCU Capstone Showcase ![438083273_803057421715504_2266959515385653223_n](https://github.com/user-attachments/assets/31276d0c-8cc3-4998-aa18-17c229aaa29e)
 
