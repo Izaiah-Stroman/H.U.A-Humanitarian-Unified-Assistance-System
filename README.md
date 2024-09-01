@@ -20,6 +20,6 @@ Visit the HUA website for more information: [HUASYSTEM.org](https://www.huasyste
 #### Achievements:
 - **Golden Bowtie Award:** The HUA system earned the prestigious Golden Bowtie Award, the first of its kind, from Grand Canyon University's College of Engineering. This honor was presented by Head Dean Paul Lambertson and Assistant Dean, recognizing the system's excellence and innovation in Information Technology with an emphasis on cybersecurity.
 - **Public Recognition:** The system was publicly highlighted by Matthew Chimbos, IT Managing Director at Hawaiian Airlines, during the GCU College of Engineering Showcase on April 18th. He commended the system in a LinkedIn post, emphasizing its potential impact on assisting those affected by disasters like the Maui fires. The post also highlighted the collaboration between Grand Canyon University and Hawaiian Airlines.
-- **Highest Honors:** Awarded the highest honors from Grand Canyon University, the HUA system stands as a testament to cutting-edge innovation in disaster management technology.
+- **Highest Honors:** Awarded the highest honors from Grand Canyon University, the HUA system stands as a testament to implementing  cutting-edge technoliges such as ArcGis in disaster management technology.
 
 This project not only reflects technical expertise but also demonstrates a deep commitment to creating solutions that have a real-world impact, particularly in critical areas such as disaster relief and humanitarian assistance.
