@@ -10,7 +10,7 @@ Office of Economic Devlopment Maui County ![image](https://github.com/user-attac
 
 The Humanitarian Unified Assistance (HUA) system is an innovative and fully automated platform designed to streamline disaster response and recovery efforts at the local and grassroots level for Maui county. This system integrates several third-party applications and is powered by  and supported by our Esri ArcGIS partners to ensure efficient coordination among various agencies and organizations, making sure that aid reaches those in need effectively.
 
-Visit the HUA website for more information: [HUASYSTEM.org](https://www.huasystem.org/)
+
 
 #### Key Features:
 - **Disaster Response Coordination:** The HUA system centralizes and organizes information from multiple agencies, providing a unified platform for managing disaster relief operations.
